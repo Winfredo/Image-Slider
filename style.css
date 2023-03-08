@@ -11,7 +11,7 @@ body{
 .main-container{
 width: 60%;
 min-height: 80vh;
-background: url("images/pic.jpg") center/cover fixed no-repeat;
+background: url("./images/pic4.jpg") center/cover fixed no-repeat;
 border: 0.5rem solid #fff700;
 border-radius: 0.5rem;
 position: relative;
@@ -20,7 +20,7 @@ box-shadow: 10px 10px 20px rgba(0,0,0,0.6);
 
 }
 
-.btn-left{
+#btn-left{
   position: absolute;
   top: 50%;
   left: 0;
@@ -32,7 +32,7 @@ box-shadow: 10px 10px 20px rgba(0,0,0,0.6);
   padding:5px;
   cursor: pointer;
 }
-.btn-right{
+#btn-right{
     position: absolute;
     top: 50%;
     right: 0;
